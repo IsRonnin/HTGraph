@@ -1,4 +1,4 @@
-#include <iostream>
+п»ї#include <iostream>
 #include <ctime>
 #include <chrono>
 #include "graph.h"
@@ -7,12 +7,12 @@ using namespace std;
 int main()
 {
     setlocale(LC_ALL, "");
-    string usr1 = "Олег";
-    string usr2 = "Саня";
-    string usr3 = "Оля";
-    string usr4 = "Ваня";
-    string usr5 = "Женёк";
-    string usr6 = "Олеся";
+    string usr1 = "РћР»РµРі";
+    string usr2 = "РЎР°РЅСЏ";
+    string usr3 = "РћР»СЏ";
+    string usr4 = "Р’Р°РЅСЏ";
+    string usr5 = "Р–РµРЅС‘Рє";
+    string usr6 = "РћР»РµСЃСЏ";
 
     Graph users;
 
